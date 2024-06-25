@@ -23,9 +23,9 @@ Since then I pushed **8702**+ commits, opened **84**+ issues, submitted **193**+
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; At the moment working with NextJS, Typescript, NodeJS, ReactNative, Firebase, Graphql, Apollo & Tailwind.
-- 👀 &nbsp; What I want to learn: WASM, Golang, Rust(should I?)
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bhatvikrant).
+- 🛠 &nbsp; At the moment working with React.js, Typescript, Node.js, Next.js, Prisma, & Tailwind.
+- 👀 &nbsp; What I want to learn: Golang, Django, Rust(should I?)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bhatvikrant) and[website](https://my-portfolio-psi-pied.vercel.app/)
 - 💬 &nbsp; Ask me about anything [here](https://github.com/bhatvikrant/bhatVikrant/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
 - 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/vikrantbhat1022) or vik.bhat223@gmail.com.
